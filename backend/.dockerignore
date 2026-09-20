@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+coverage
+.env.local
+.env.*.local
+.git
+.gitignore
+README.md
+.prettierrc
+eslint.config.mjs
+test
+.DS_Store
+*.md
