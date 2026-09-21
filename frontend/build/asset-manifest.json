@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.007f85d6.css",
+    "main.js": "/static/js/main.02661cb5.js",
+    "static/js/453.d1422236.chunk.js": "/static/js/453.d1422236.chunk.js",
+    "static/media/fashion.jpg": "/static/media/fashion.2b195ec6b84e2e5f39c3.jpg",
+    "static/media/witches.jpg": "/static/media/witches.da09170c5a5654781478.jpg",
+    "static/media/minimal.jpg": "/static/media/minimal.aecbca4c18c3635fbfba.jpg",
+    "static/media/director.jpg": "/static/media/director.a33ac0e65795a2390678.jpg",
+    "static/media/music.jpg": "/static/media/music.1a19ce8990f9dfb088c2.jpg",
+    "static/media/home.jpg": "/static/media/home.01b0b35f24f4a8605710.jpg",
+    "static/media/logo.svg": "/static/media/logo.859c065a68674e897435ac6a26d344cb.svg",
+    "static/media/no-preview.svg": "/static/media/no-preview.13a4f0d724bf027e639bb725bb3382ec.svg",
+    "static/media/gift.svg": "/static/media/gift.098e81f3c144d08f4c2f7eb1dec88c9a.svg",
+    "static/media/attach.svg": "/static/media/attach.4766f14e04799a494d17.svg",
+    "static/media/profile.svg": "/static/media/profile.371108c99bcf22c5c414fc631896cf3a.svg",
+    "static/media/trash-red.svg": "/static/media/trash-red.8575f618c451922b1d0aeb0398cf8cea.svg",
+    "static/media/like.svg": "/static/media/like.2a9d6f8664b5fef9c5bb9c35b4887458.svg",
+    "static/media/preview.svg": "/static/media/preview.756870311d25450113045c85cc905996.svg",
+    "static/media/logo-mini.svg": "/static/media/logo-mini.735bb7eb047e96fe205d36d928db8f31.svg",
+    "static/media/cancel.svg": "/static/media/cancel.723b4e92c2b769530c744c3f1f110627.svg",
+    "index.html": "/index.html",
+    "main.007f85d6.css.map": "/static/css/main.007f85d6.css.map",
+    "main.02661cb5.js.map": "/static/js/main.02661cb5.js.map",
+    "453.d1422236.chunk.js.map": "/static/js/453.d1422236.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.007f85d6.css",
+    "static/js/main.02661cb5.js"
+  ]
+}
