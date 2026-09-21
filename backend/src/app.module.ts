@@ -13,11 +13,11 @@ import { AuthModule } from './auth/auth.module';
   imports: [
     TypeOrmModule.forRoot({
       type: 'postgres',
-      host: process.env.DB_HOST || 'localhost',
+      host: process.env.POSTGRES_HOST || 'localhost',
       port: parseInt(process.env.DB_PORT || '5432', 10),
-      username: process.env.DB_USERNAME || 'postgres',
-      password: process.env.DB_PASSWORD || 'nestproject',
-      database: process.env.DB_NAME || 'kupipodaridai',
+      username: process.env.POSTGRES_USER || 'postgres',
+      password: process.env.POSTGRES_PASSWORD || 'nestproject',
+      database: process.env.POSTGRES_DB || 'kupipodaridai',
       autoLoadEntities: true,
       synchronize: true,
     }),
